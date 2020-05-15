@@ -1,2 +1,0 @@
-# updated-portfolio-page
-Homework 
